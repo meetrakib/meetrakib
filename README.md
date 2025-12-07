@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I’m Rakib Hasan
 
-AI Engineer • Full-Stack Architect • Fractional CTO / Tech Advisor
+AI & Full-Stack Engineer • Fractional CTO / Tech Advisor
 
 I help startups and teams turn messy or AI-generated code into **production-ready, scalable systems**.  
 I also build AI-powered MVPs, automate workflows, and provide technical leadership.

@@ -14,22 +14,17 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I’m Rakib Hasan
 
-AI & Full-Stack Engineer • Fractional CTO / Tech Advisor
-
-I help startups and teams turn messy or AI-generated code into **production-ready, scalable systems**.  
-I also build AI-powered MVPs, automate workflows, and provide technical leadership.
+Senior Software Engineer / Tech Lead with 8+ years of experience building
+scalable backend-first systems for startups and public-sector projects.
 
 ## 🔧 Tech / Stack
 Python • Django • FastAPI • React • Next.js • PostgreSQL • AWS • Docker • CI/CD • LLMs • Vector DBs • Flutter • Automation tools (Zapier, n8n, Make)  
 Architecture: Monolith, Modular Monolith, Microservices, Serverless
 
-## 🚀 Services
-- AI MVP Cleanup & Production Upgrade  
-- AI Automation & Workflow Optimization  
-- Full-stack MVP Development  
-- Architecture Design & Technical Advisory  
-- Fractional CTO / Startup Tech Partner  
+I enjoy working with founders and teams to turn complex ideas into reliable
+production systems.
 
 Whether you’re building a new product, scaling or fixing messy code — I can help.
 
 🌐 Learn more → [meetrakib.com](https://meetrakib.com)
+

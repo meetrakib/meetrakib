@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I’m Rakib Hasan
 
-Senior Software Engineer / Tech Lead with 8+ years of experience building
+Senior Software Engineer / Tech Lead with 6+ years of experience building
 scalable backend-first systems for startups and public-sector projects.
 
 ## 🔧 Tech / Stack

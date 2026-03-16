@@ -18,7 +18,7 @@ Senior Software Engineer / Tech Lead with 6+ years of experience building
 scalable backend-first systems for startups and public-sector projects.
 
 ## 🔧 Tech / Stack
-Python • Django • FastAPI • React • Next.js • PostgreSQL • AWS • Docker • CI/CD • LLMs • Vector DBs • Flutter • Automation tools (Zapier, n8n, Make)  
+Python • Django • FastAPI • JavaScript • TypeScript • React • Next.js • Node.js • PostgreSQL • AWS • Docker • CI/CD • LLMs • Vector DBs • Flutter • Automation tools (Zapier, n8n, Make)  
 Architecture: Monolith, Modular Monolith, Microservices, Serverless
 
 I enjoy working with founders and teams to turn complex ideas into reliable
